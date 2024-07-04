@@ -4,7 +4,6 @@
 I'm currently a student at the University of Texas at San Antonio studying Computer Science with concentrations in Cybersecurity and Cloud & Systems. My passions are threat intelligence and incident response.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey began when my dad taught me what working in cybersecurity was like. That motivated me to get my Security+ certification in high school, while I was still 17! Since then, I have worked over 2 years in the government IT contracting space, and I am now eager to transition into working for the federal government directly at the NSA or CIA, specifically aiming to join  a threat intelligence or counterintelligence team.
 
