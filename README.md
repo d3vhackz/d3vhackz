@@ -4,10 +4,10 @@
 I'm currently a student at the University of Texas at San Antonio studying Computer Science with concentrations in Cybersecurity and Cloud & Systems. My passions are threat intelligence and incident response.
 
 ## Objective
+
 My journey began when my dad taught me what working in cybersecurity was like. That motivated me to get my Security+ certification in high school, while I was still 17! Since then, I have worked over 2 years in the government IT contracting space, and I am now eager to transition into working for the federal government directly at the NSA or CIA, specifically aiming to join a threat intelligence or counterintelligence team.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +19,6 @@ My journey began when my dad taught me what working in cybersecurity was like. T
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
