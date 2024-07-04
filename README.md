@@ -1,5 +1,5 @@
 # Hi there, I'm Devon!
-<a href="https://www.linkedin.com/in/devonbookerr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/d3vhackz/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm currently a student at the University of Texas at San Antonio studying Computer Science with concentrations in Cybersecurity and Cloud & Systems. My passions are threat intelligence and incident response.
 
