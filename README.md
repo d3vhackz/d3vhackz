@@ -1,40 +1,41 @@
-# 👋 Hi, I'm Devon Booker — aka d3vhackz
+# Devon Booker (d3vhackz)
 
-I'm a cybersecurity analyst, Splunk system builder, and founder of **Lock In Security** — a platform focused on teaching others how to operationalize security tools with clarity and intention.
-
-📍 Based in San Antonio | 🎓 Cybersecurity student at WGU | 🧠 Focused on detection engineering, threat intelligence, and automation
+Lead System Administrator and Cybersecurity Professional specializing in Threat Detection and SIEM Engineering. My focus is on building scalable detection systems and automating SOC operations. I am actively pursuing a career in cyber threat intelligence with a long-term goal of contributing to national security (NSA/CIA) or as an overseas cybersecurity contractor.
 
 ---
 
-## 💡 What I Do
+### Core Competencies
 
-- **SIEM Engineering**: Building scalable, Splunk-based detection systems using MITRE ATT&CK, Sysmon, and Atomic Red Team
-- **SOC Optimization**: Automating Tier-1 workflows and documenting every process for smart SOCs
-- **Education & Content**: Publishing hands-on labs, courses, and security walkthroughs through Lock In Security
-
----
-
-## 🔭 Current Projects
-
-- `Everything-Splunk`: My all-in-one Splunk knowledge base (SPL commands, detection content, dashboards)
-- `Art-of-Investigations`: DFIR workflow studies and notes from MyDFIR and BTL1 training
-- `Threat-Intel`: Ongoing tactical, operational, and strategic threat intelligence documentation
+| Category                  | Technologies & Methodologies                                    |
+| ------------------------- | --------------------------------------------------------------- |
+| **SIEM & Detection**      | Splunk, Sysmon, MITRE ATT&CK, Atomic Red Team, Detection Logic    |
+| **Infrastructure & Cloud**| Azure Cloud, Microsoft 365, AWS, PowerShell, Linux              |
+| **Security & Networking** | Incident Response, DFIR, Qualys, CCNA Concepts, Packet Tracer   |
+| **Languages**             | English (Native), Japanese (Bilingual)                          |
 
 ---
 
-## 📚 Goals
+### Featured Project
 
-- Become a **Senior Splunk SIEM Engineer**
-- Launch a paid cybersecurity community
-- Teach 1,000+ people how to operationalize security tools wisely
-
----
-
-## 🔗 Connect with Me
-
-<a href="https://www.linkedin.com/in/d3vhackz/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-📧 Email: [devonbookerofficial@gmail.com](mailto:devonbookerofficial@gmail.com)  
+> #### repository:[d3vhackz/Everything-Splunk](https://github.com/d3vhackz/Everything-Splunk)
+> A centralized knowledge base for Splunk professionals, containing advanced SPL queries, detection rules, data onboarding guides, and automation scripts. This repository is a reflection of my deep-dive into SIEM engineering.
 
 ---
 
-> “In a world of noise, the most valuable skill is focused execution.” — Lock In.
+### Career & Education
+
+*   **Lead System Administrator** @ Resonant Technology Partners (_April 2025 - Present_)
+*   **BBA, Cybersecurity** (GPA: 3.8) @ The University of Texas at San Antonio (UTSA)
+
+### Certifications
+
+*   Blue Team Level 1 (BTL1)
+*   CompTIA CySA+
+*   CompTIA Linux+
+*   CompTIA CCNA
+*   CompTIA A+ Core 2
+
+---
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">](https://www.linkedin.com/in/your-linkedin-profile)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25">](https://github.com/d3vhackz)
