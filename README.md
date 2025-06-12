@@ -37,5 +37,5 @@ Lead System Administrator and Cybersecurity Professional specializing in Threat 
 
 ---
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">](https://www.linkedin.com/in/your-linkedin-profile)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">](https://www.linkedin.com/in/d3vhackz)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25">](https://github.com/d3vhackz)
