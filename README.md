@@ -47,9 +47,9 @@ Lead System Administrator and Cybersecurity Professional specializing in Threat 
 
 *   **Bachelor of Science, Cybersecurity and Information Assurance** @ Western Governors University (_Present_)
 
-| Category | Certification |
+| Vendor | Certification |
 | :--- | :--- |
-| **Blue Team** | Blue Team Level 1 (BTL1) - in progress |
+| **Blue Team Security** | Blue Team Level 1 (BTL1) - in progress |
 | **CompTIA** | Security+ |
 
 ---
