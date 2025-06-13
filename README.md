@@ -46,12 +46,11 @@ Lead System Administrator and Cybersecurity Professional specializing in Threat 
 ### Education & Certifications
 
 *   **Bachelor of Science, Cybersecurity and Information Assurance** @ Western Governors University (_Present_)
-*   **BBA, Cybersecurity** (GPA: 3.8) @ The University of Texas at San Antonio (UTSA)
 
 | Category | Certification |
 | :--- | :--- |
-| **Blue Team** | Blue Team Level 1 (BTL1) |
-| **CompTIA** | CySA+, Linux+, Security+, CCNA, A+ |
+| **Blue Team** | Blue Team Level 1 (BTL1) - in progress |
+| **CompTIA** | Security+ |
 
 ---
 
