@@ -129,4 +129,4 @@ AWS, Terraform
 
 "Building proactive defenses through SIEM, simulations, and relentless threat hunting to secure the digital world."
 
-⚡ "Security is a mindset, not a wall."Made with 💀 by d3vhackz | Updated: July 2025
+⚡ "Security is a mindset, not a wall."Made with 💀 by d3vhackz | Updated: July 18, 2025
