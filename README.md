@@ -1,291 +1,116 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist" width="50" height="50" /> D3VHACKZ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# 👋 Hi, I'm Devon Booker
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devonbooker)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devonbookerofficial@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🛡️+Cybersecurity+Engineer;🔍+SIEM+Specialist;⚡+Detection+Engineer;🏗️+Homelab+Architect;💀+Red+Team+Operator;🌐+Cloud+Security+Expert)](https://git.io/typing-svg)
+## 🛡️ Cybersecurity Professional | System Administrator | Security Engineer
 
-</div>
+I'm a Lead System Administrator at Resonant Technology Partners with a passion for building secure infrastructure and implementing robust security solutions. Currently pursuing my Bachelor's in Cybersecurity and Information Assurance at Western Governors University.
 
----
-
----
-
-<div align="center">
-
-### ⚡ **Elite Security Operations Center** ⚡
-
-```ascii
-    ╔═══════════════════════════════════════════════════════════╗
-    ║                   🛡️ SECURITY ANALYST                     ║
-    ║  ┌─────────────────────────────────────────────────────┐  ║
-    ║  │ [●] SIEM Dashboard       [●] Threat Hunting        │  ║
-    ║  │ [●] Detection Rules      [●] Incident Response     │  ║
-    ║  │ [●] Red Team Ops         [●] Purple Team Exercises │  ║
-    ║  └─────────────────────────────────────────────────────┘  ║
-    ║            🔍 Always watching. Always learning.          ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### 🚀 Elite Security Professional & Detection Engineer
-
-I architect advanced security infrastructures and develop sophisticated detection mechanisms that identify threats before they become incidents. My passion lies in building comprehensive security environments that simulate real-world enterprise networks.
-
-**🎯 Current Focus:**
-- 🔬 Advanced Threat Detection & SIEM Engineering
-- 🏗️ Enterprise Security Architecture Design  
-- ⚔️ Red Team Operations & Purple Team Exercises
-- 🛡️ Detection-as-Code Implementation
-- 🌊 Threat Hunting & Incident Response
+### 🏆 Highlights
+- **100% CSAT** award winner with 27% review response rate
+- Managing **4,000+ endpoints** with enterprise security tools
+- **CompTIA Security+** certified professional
+- Experienced in **NIST SP 800-171** compliance and security audits
 
 ---
 
-<details>
-<summary>🏆 <b>Featured Project - Elite SIEM Homelab</b></summary>
-<br>
+## 🚀 What I Do
 
-[![Splunk Homelab](https://github-readme-stats.vercel.app/api/pin/?username=d3vhackz&repo=splunk-homelab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/d3vhackz/splunk-homelab)
+### 🔐 Security Operations
+- **Endpoint Protection**: SentinelOne, DefensX administration across enterprise environments
+- **Threat Detection**: Security alert monitoring, triage, and incident response
+- **Compliance**: NIST framework implementation and security audit documentation
 
-**🛠️ Technical Architecture:**
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    d3vhackz.local Domain                     │
-│                   Network: 192.168.10.0/24                  │
-├─────────────────────────────────────────────────────────────┤
-│  🖥️ AD Controller    🔍 Splunk SIEM    💻 Win10 Endpoint    │
-│  🐧 Kali Linux      📊 Analytics       🔧 Ubuntu Server    │
-│  🎯 Atomic Red Team  🚨 Sysmon         ⚡ Universal Fwd    │
-└─────────────────────────────────────────────────────────────┘
-```
+### 🖥️ Infrastructure Management
+- **Cloud**: Azure AD, Microsoft 365, Conditional Access policies
+- **Network Security**: Barracuda firewall management and configuration
+- **Identity Management**: Active Directory administration for 400,000+ DoD users
 
-**⚔️ MITRE ATT&CK Coverage:**
-- **Persistence:** T1136.001 (Account Creation)
-- **Credential Access:** T1110.003 (Password Spraying)  
-- **Defense Evasion:** T1055 (Process Injection)
-- **Lateral Movement:** T1021.001 (RDP)
-- **Command & Control:** T1071.001 (Web Protocols)
-
-</details>
+### 📊 Security Engineering
+- **SIEM**: Splunk Enterprise Security deployment and detection engineering
+- **Automation**: Python and shell scripting for security workflows
+- **Monitoring**: Custom dashboards and correlation searches aligned with MITRE ATT&CK
 
 ---
 
-## 🎯 Technology Arsenal
+## 🛠️ Tech Stack
 
-<div align="center">
-
-### 🔥 Security & Monitoring
+### Security Tools
+![SentinelOne](https://img.shields.io/badge/SentinelOne-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAGYktHRAD/AP8A/6C9p5MAAAAHdElNRQfnBw4PNioAAAAASURBVCjPY2CgBmBkYGD4z0ABYGJgYGBgYmBg+M9AHmCiQC0jAwMDw38GBgYmcjQxMVGoiZGBCtYyUqiJkYGBgYmBSsBItXgFAPoFBAOd6g0TAAAAAElFTkSuQmCC)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Barracuda](https://img.shields.io/badge/Barracuda-00A3E0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAGYktHRAD/AP8A/6C9p5MAAAAHdElNRQfnBw4PNioAAAAASURBVCjPY2CgBmBkYGD4z0ABYGJgYGBgYmBg+M9AHmCiQC0jAwMDw38GBgYmcjQxMVGoiZGBCtYyUqiJkYGBgYmBSsBItXgFAPoFBAOd6g0TAAAAAElFTkSuQmCC)
 
-### ⚔️ Offensive Security
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-DC143C?style=for-the-badge&logo=github&logoColor=white)
+### Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🌐 Cloud & Infrastructure  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 💻 Development & Automation
+### Scripting & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-220E61?style=for-the-badge&logo=yara&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-4B0082?style=for-the-badge&logo=sigma&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Analytics & Achievements
-
-<div align="center">
-  
-![d3vhackz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vhackz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3vhackz&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3vhackz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-</div>
+### Ticketing & Documentation
+![ServiceNow](https://img.shields.io/badge/ServiceNow-0E8A16?style=for-the-badge&logo=servicenow&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## 📂 Featured Projects
 
-<div align="center">
+### 🔍 [Splunk Homelab: SIEM Deployment & Detection Engineering](https://github.com/d3vhackz/splunk-siem-lab)
+Enterprise-grade SIEM implementation with custom detection content
+- **Tech**: Splunk Enterprise Security, Python, SPL
+- **Features**: 
+  - Distributed architecture with clustering
+  - Custom correlation searches aligned with MITRE ATT&CK
+  - Automated threat detection workflows
+  - Real-time security dashboards
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=d3vhackz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/ryo-ma/github-profile-trophy)
+### 🛡️ [Security Automation Scripts](https://github.com/d3vhackz/security-automation)
+Collection of Python and PowerShell scripts for security operations
+- **Tech**: Python, PowerShell, REST APIs
+- **Use Cases**: Log analysis, incident response automation, compliance checks
 
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-[![d3vhackz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3vhackz&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎨 Skills Matrix
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#00D9FF', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#00D9FF', 'lineColor': '#00D9FF', 'secondaryColor': '#0D1117', 'tertiaryColor': '#21262D'}}}%%
-mindmap
-  root((🛡️ SECURITY
-    EXPERTISE))
-    🔍 SIEM Engineering
-      Splunk Architecture
-      Log Analysis
-      Custom Dashboards
-      Alert Engineering
-    ⚔️ Red Team Ops
-      MITRE ATT&CK
-      Atomic Red Team
-      Custom Payloads
-      C2 Frameworks
-    🏗️ Infrastructure
-      Active Directory
-      Enterprise Networks
-      Cloud Security
-      Container Security
-    🔬 Detection Engineering
-      Sigma Rules
-      YARA Rules
-      Threat Hunting
-      IOC Development
-```
-
-</div>
+### 📊 [Compliance Toolkit](https://github.com/d3vhackz/compliance-toolkit)
+NIST SP 800-171 compliance assessment and documentation tools
+- **Tech**: Python, Markdown, YAML
+- **Features**: Automated compliance checks, vulnerability documentation
 
 ---
 
-## 📈 Detailed Analytics
+## 📈 GitHub Stats
 
-<div align="center">
+![Devon's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3vhackz&show_icons=true&theme=dark&hide_border=true)
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏅 GitHub Statistics
-- **Total Repositories:** Classified
-- **Languages Mastered:** 10+
-- **Security Projects:** Enterprise-Grade
-- **Detection Rules:** 500+
-- **Threat Simulations:** 100+ ATT&CK Techniques
-
-</td>
-<td width="50%">
-
-### ⚡ Professional Metrics
-```yaml
-Security_Focus:
-  - SIEM_Engineering: "Expert"
-  - Threat_Detection: "Advanced"
-  - Red_Team_Ops: "Proficient"
-  - Cloud_Security: "Intermediate"
-  
-Certifications:
-  - Planning: ["GCIH", "GCDA", "GREM"]
-  - Focus: "Hands-on Experience"
-```
-
-</td>
-</tr>
-</table>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3vhackz&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 🌟 Featured Security Research
+## 🎯 Current Focus
 
-<div align="center">
-
-| 🔬 Research Area | 📊 Impact | 🛠️ Tools Used | 📈 Status |
-|:---|:---:|:---:|:---:|
-| **SIEM Detection Engineering** | High | Splunk, Sigma | 🟢 Active |
-| **Enterprise Threat Simulation** | Critical | Atomic Red Team | 🟢 Active |
-| **Custom Detection Rules** | Medium | YARA, Sysmon | 🟡 Research |
-| **Cloud Security Architecture** | High | AWS, Terraform | 🟡 Planning |
-
-</div>
+- 🎓 Completing B.S. in Cybersecurity and Information Assurance (Expected: March 2027)
+- 🔐 Building detection engineering projects with Splunk and Python
+- 🌱 Exploring cloud security architectures in Azure
+- 📚 Preparing for additional security certifications
 
 ---
 
-## 💀 Threat Intelligence Feed
+## 💬 Let's Connect!
 
-<div align="center">
+I'm always interested in collaborating on security projects and sharing knowledge with the community. Feel free to reach out!
 
-```bash
-#!/bin/bash
-# d3vhackz Threat Intelligence Pipeline
-echo "🔍 Analyzing threat landscape..."
-echo "📊 Processing 10,000+ daily security events"
-echo "⚡ Identifying 0-day attack patterns"
-echo "🛡️ Generating custom detection rules"
-echo "🎯 Mapping to MITRE ATT&CK framework"
-echo "✅ Threat intelligence pipeline operational"
-```
-
-</div>
+- 📧 Email: [devonbookerofficial@gmail.com](mailto:devonbookerofficial@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/devonbooker)
+- 📱 Phone: 469-355-5196
 
 ---
 
-## 🔗 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/d3vhackz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/d3vhackz)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/d3vhackz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@d3vhackz.dev)
-
-</div>
-
----
-
-## 🎯 Mission Statement
-
-<div align="center">
-
-> *"In the realm of cybersecurity, we don't just detect threats—we architect entire ecosystems that make attackers wish they had chosen a different profession. Every line of code, every detection rule, and every simulated attack brings us closer to a more secure digital world."*
-
-**🌟 Building the future of proactive threat detection, one SIEM query at a time.**
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Profile Views & Analytics
-
-![Visitor Count](https://profile-counter.glitch.me/d3vhackz/count.svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/d3vhackz?label=Followers&style=social)](https://github.com/d3vhackz)
-[![GitHub stars](https://img.shields.io/github/stars/d3vhackz?label=Profile%20Stars&style=social)](https://github.com/d3vhackz)
-
----
-
-*⚡ "Security is not a product, but a process. Defense is not a wall, but a mindset." ⚡*
-
-**Made with 💀 by d3vhackz | Last updated: $(date)**
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=d3vhackz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+</p>
