@@ -1,26 +1,31 @@
 # Devon Booker
 
-**Lead System Administrator** @ Resonant Technology Partners  
-**Security+** | **NIST SP 800-171** | **4,000+ endpoints**
+**Lead System Administrator** | **4,000+ endpoints** | **100% CSAT**
 
 ## Tech
 
-**Security**: SentinelOne • Splunk • SIEM • Incident Response  
-**Cloud**: Azure AD • M365 • Active Directory (400k+ users)  
-**Tools**: Python • PowerShell • Bash • ServiceNow
+**Security**: SentinelOne • Splunk • KAPE • Incident Response • NIST Compliance  
+**Infrastructure**: Azure AD • M365 • Active Directory • Barracuda  
+**Automation**: Python • PowerShell • Bash
+
+## Experience
+
+**Endpoint Security**: Managing enterprise deployments, threat detection, forensics investigations  
+**Team Leadership**: Trained 20+ technicians on security tools and incident response  
+**Compliance**: NIST SP 800-171 audits and remediation strategies
 
 ## Projects
 
 **[Splunk Detection Lab]** - Enterprise SIEM with custom SPL queries aligned to MITRE ATT&CK  
-**[Security Scripts]** - Python automation for log analysis and threat hunting  
-**[Compliance Tools]** - NIST framework assessment automation
+**[Security Automation]** - Python scripts for log analysis and security operations  
+**[Forensics Toolkit]** - KAPE deployment guides and artifact collection scripts
 
 ## Currently
 
+- Security+ certified
 - B.S. Cybersecurity @ WGU (2027)
-- Building detection engineering projects
-- 100% CSAT award winner
+- Exploring digital forensics and threat hunting
 
 ---
 
-[LinkedIn](https://linkedin.com/in/devonbooker) • [Email](mailto:devonbookerofficial@gmail.com)
+[LinkedIn](https://linkedin.com/in/d3vhackz) • [Email](mailto:devonbookerofficial@gmail.com)
