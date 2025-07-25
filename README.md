@@ -6,7 +6,6 @@
 
 **Security**: SentinelOne • Splunk • KAPE • Incident Response • NIST Compliance  
 **Infrastructure**: Azure AD • M365 • Active Directory • Barracuda  
-**Automation**: Python • PowerShell • Bash
 
 ## Experience
 
@@ -17,7 +16,6 @@
 ## Projects
 
 **[Splunk Detection Lab]** - Enterprise SIEM with custom SPL queries aligned to MITRE ATT&CK  
-**[Security Automation]** - Python scripts for log analysis and security operations  
 **[Forensics Toolkit]** - KAPE deployment guides and artifact collection scripts
 
 ## Currently
